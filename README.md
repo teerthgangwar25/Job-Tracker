@@ -67,7 +67,7 @@ job-scraper/
 ### 1. Clone or download the project
 
 ```bash
-git clone https://github.com/yourusername/job-scraper.git
+git clone https://github.com/teerthgangwar25/job-scraper.git
 cd job-scraper
 ```
 
